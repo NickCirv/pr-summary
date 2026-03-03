@@ -1,0 +1,27 @@
+{
+  "name": "pr-summary",
+  "version": "1.0.0",
+  "description": "Auto-generate PR descriptions from your git diff. Ship better PRs in seconds.",
+  "type": "module",
+  "bin": {
+    "pr-summary": "./index.js",
+    "prs": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "git",
+    "pull-request",
+    "ai"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/pr-summary"
+  }
+}
