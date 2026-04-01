@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # pr-summary
 > Auto-generate PR descriptions from your git diff. Ship better PRs in seconds.
 
